@@ -1,6 +1,6 @@
 LDMS Technical Test Widget Ltd.
 
-LDMS Technical Test Widget Ltd.sln allows A Widget Ltd to generate reports for their employees as They are unable to store employee’s data in database due to GDPR.
+LDMS Technical Test Widget Ltd.sln allows Widget Ltd to generate reports for their employees as They are unable to store employeeâ€™s data in database due to GDPR.
 
 **Prerequisites**
  
